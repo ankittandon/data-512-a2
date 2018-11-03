@@ -26,17 +26,16 @@ In this analysis we draw from 3 different data sources:
 This analysis was prepared using Python 3.5 running in a Jupyter Notebook environment.  
 Documentation for Python can be found here: https://docs.python.org/3.5/  
 Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/  
-The default package DefaultDict from the collections library was also utilitzed in this analysis.
 
 
 The following Python packages were used and their documentation can be found at the accompanying links:
+DefaultDict - https://docs.python.org/2/library/collections.html
 
 ## Files Created
-This notebook creates N CSV files of data extracted and compiled as part of this analysis.
+This notebook creates 1 CSV files of data extracted and compiled as part of this analysis.
+This file is titled 'revisions_data_file.csv' and follows the following schema: 
+ | country | article_name | revision_id | article_quality | population |
 
-The first file...
-
-The Nth file...
 
 ## Visualizations Created
 top 10 countries in terms of number of politician articles as a proportion of country population
@@ -103,4 +102,6 @@ bottom 10 countries in terms of proportion of articles that are predicted as GA 
 
 This assignment code is released under the MIT license
 
-The data sources are licensed under ...
+The data sources are licensed under 
+"Politicians by Country from the English-Language Wikipedia" licensed under CC-BY-SA 4.0 
+"WPDS_2018" data which i'm not able to find a license for. The link to this data is shared earlier and comes from prb.org (Population Reference Bureau).
