@@ -46,7 +46,8 @@ top 10 countries in terms of number of politician articles as a proportion of co
  10 |federated states of micronesia |380.0 |
 
 bottom 10 countries in terms of number of politician articles as a proportion of country population
-Rank | Country | politician articles as a proportion of population |
+
+ Rank | Country | politician articles as a proportion of population |
  --- | --- | --- |
  1 |india | 0.7219426821264494 |
  2 | indonesia | 0.8107088989441931 | 
@@ -60,7 +61,8 @@ Rank | Country | politician articles as a proportion of population |
  10 |mozambique | 1.9672131147540983 |							
 
 top 10 countries in terms of proportion of articles that are predicted as GA or FA a.k.a good articles
-Rank | Country | proportion of good articles |
+
+ Rank | Country | proportion of good articles |
  --- | --- | --- |
  1 |korea, north |0.15384615384615385 |
  2 | rhodesian | 0.13157894736842105 | 
@@ -74,7 +76,8 @@ Rank | Country | proportion of good articles |
  10 | united states | 0.07468123861566485 |	
 
 bottom 10 countries in terms of proportion of articles that are predicted as GA or FA a.k.a good articles
-Rank | Country | proportion of good articles |
+
+ Rank | Country | proportion of good articles |
  --- | --- | --- |
  1 | tanzania | 0.0024509803921568627 |
  2 | peru | 0.002824858757062147 | 
