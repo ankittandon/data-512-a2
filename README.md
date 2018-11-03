@@ -30,11 +30,10 @@ The first file...
 The Nth file...
 
 ## Visualizations Created
-
-#top 10 countries in terms of number of politician articles as a proportion of country population
-Rank	country							politician articles as a proportion of population
-1		tuvalu							5500.0
-2		nauru							5300.0
+top 10 countries in terms of number of politician articles as a proportion of country population
+| Rank | Country | politician articles as a proportion of population |
+| 1 |tuvalu | 5500.0 |
+| 2 | nauru | 5300.0 |
 3		san marino						2733.3333333333335
 4		monaco							1000.0
 5		liechtenstein					725.0
