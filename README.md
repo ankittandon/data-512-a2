@@ -31,12 +31,6 @@ The Nth file...
 
 ## Visualizations Created
 top 10 countries in terms of number of politician articles as a proportion of country population
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
 
  Rank | Country | politician articles as a proportion of population |
  --- | --- | --- |
