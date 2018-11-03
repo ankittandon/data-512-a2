@@ -7,6 +7,15 @@ Date: 11/03/2018
 ## Goal
 The goal of this project is to explore possible bias in data from Wikipedia. In particular, we are interested in looking at how article quality varies from country to country.
 
+## Analysis
+Looking at the top 10 countries by politican articles as a proportion of population, it seems that countries with low population have a disproportionate number of articles. This top 10 list is populated by countries with relatively miniscule populations. Tuvalu, Nauru, San Marino are all countries with populations in the thousands. As such, if there are a few articles from these countries this metric will be very large. 
+Likewise, if we look at the bottom 10 countries by this measure we again see the usual suspects like India and China - 2 of the largest countries in terms of population. Even if these countries have a large raw number of articles the proportion relative to its population is a drop in the bucket because these countries have billions of people. 
+My interpretation of this metric is that the number of wikipedia articles published in a country is not linearly proportional to the population of that country. We might expect as the population of a country increases the number of Wikipedia revisions sourced from that country to also increase at an equal rate. This is not the case and might be because increase in population does not imply increase in educated population with access to technology allowing them to publish Wikipedia edits. 
+
+
+Looking at the proportion of good articles from total articles by country, it is interesting to see North Korea as number one. North Korea shows up as one of the lowest in terms of articles by population but as number one in terms of good articles per article published. I interpret this as North Korea having very tight and limited access to internet usage and exposure to Wikipedia. However, the few that do have access (which is very, very small since it is one of the bottom countries by this measure) are able to publish very high quality edits. This might imply a stark division between the highly educated and non educated in this country.
+I'm not surprised to see United States in the top 10 in terms of proportion of good articles since Wikimedia is based in the US and there seems to be a large number of raw good quality articles from the US.
+
 ## Data sources used
 In this analysis we draw from 3 different data sources:
 1. Wikipedia dataset on pages about political figures found from https://figshare.com/articles/Untitled_Item/5513449 
